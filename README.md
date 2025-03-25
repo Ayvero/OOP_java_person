@@ -31,13 +31,6 @@ Se deben crear los siguientes constructores:
    ```markdown
    IMC = peso / altura^2
 ------------------------------------------------------------------------------------------------------------------------------
-(english)
-
----
-
-### Versión en Inglés (Markdown):
-
-```markdown
 # OOP Exercise - Person
 
 ## Problem Description
